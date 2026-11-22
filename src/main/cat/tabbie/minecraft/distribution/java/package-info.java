@@ -4,4 +4,4 @@
  * group is registered, so an {@code @Applies} declaration can name all of its
  * distributions at once.
  */
-package cat.tabbie.extensions.distribution.java;
+package cat.tabbie.minecraft.distribution.java;

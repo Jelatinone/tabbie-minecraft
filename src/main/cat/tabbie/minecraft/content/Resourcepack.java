@@ -1,11 +1,11 @@
-package cat.tabbie.extensions.content;
+package cat.tabbie.minecraft.content;
 
 import static cat.tabbie.sdk.target.Environment.CLIENT;
 
 import java.io.IOException;
 import java.util.Set;
 
-import cat.tabbie.extensions.form.Archive;
+import cat.tabbie.minecraft.form.Archive;
 import cat.tabbie.sdk.content.Artifact;
 import cat.tabbie.sdk.failure.Reason;
 import cat.tabbie.sdk.failure.Refusal;

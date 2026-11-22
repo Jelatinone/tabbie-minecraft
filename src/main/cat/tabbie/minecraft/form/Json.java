@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.form;
+package cat.tabbie.minecraft.form;
 
 import java.io.IOException;
 
@@ -20,7 +20,7 @@ import tools.jackson.databind.json.JsonMapper;
  * A file read as a JSON document, leniently, allowing the comments and
  * trailing commas game files carry. The document is read into Jackson's tree
  * when the form is made, and bound to values on request. Typed documents
- * extend it, as a pack's {@link cat.tabbie.extensions.content.Manifest
+ * extend it, as a pack's {@link cat.tabbie.minecraft.content.Manifest
  * manifest} does.
  */
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)

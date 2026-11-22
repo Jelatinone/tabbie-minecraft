@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.form;
+package cat.tabbie.minecraft.form;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.distribution.bedrock;
+package cat.tabbie.minecraft.distribution.bedrock;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.content;
+package cat.tabbie.minecraft.content;
 
 import java.io.IOException;
 import java.util.Set;

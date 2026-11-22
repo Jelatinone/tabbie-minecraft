@@ -1,22 +1,22 @@
-package cat.tabbie.extensions.distribution.java;
+package cat.tabbie.minecraft.distribution.bedrock;
 
+import cat.tabbie.sdk.distribution.Bedrock;
 import cat.tabbie.sdk.distribution.Distribution;
-import cat.tabbie.sdk.distribution.Java;
 import cat.tabbie.sdk.meta.registry.Registered;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
 
 /**
- * Unmodified Java Edition runtimes.
+ * Unmodified Bedrock Edition runtimes.
  */
 @Registered
 @FieldDefaults(level = AccessLevel.PRIVATE, makeFinal = true)
-public enum Vanilla implements Java {
+public enum Vanilla implements Bedrock {
 
   /**
    * Vanilla
    */
-  VANILLA("java:vanilla");
+  VANILLA("bedrock:vanilla");
 
   String id;
 
@@ -30,6 +30,11 @@ public enum Vanilla implements Java {
     this.id = id;
   }
 
+  /**
+   * Returns the stable, case-sensitive namespaced identifier.
+   *
+   * @return identifier such as {@code bedrock:vanilla}
+   */
   @Override
   public String id() {
     return id;

@@ -4,4 +4,4 @@
  * documents, such as a pack's manifest, extend {@link Json} beside the
  * families that read them.
  */
-package cat.tabbie.extensions.form;
+package cat.tabbie.minecraft.form;

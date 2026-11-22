@@ -1,10 +1,10 @@
-package cat.tabbie.extensions.content;
+package cat.tabbie.minecraft.content;
 
 import java.io.IOException;
 import java.util.List;
 import java.util.UUID;
 
-import cat.tabbie.extensions.form.Json;
+import cat.tabbie.minecraft.form.Json;
 import cat.tabbie.sdk.failure.Reason;
 import cat.tabbie.sdk.failure.Refusal;
 import cat.tabbie.sdk.tree.Shape;

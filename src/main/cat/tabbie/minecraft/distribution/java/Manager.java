@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.distribution.java;
+package cat.tabbie.minecraft.distribution.java;
 
 import java.util.Set;
 

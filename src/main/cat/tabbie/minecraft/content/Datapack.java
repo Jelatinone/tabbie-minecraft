@@ -1,4 +1,4 @@
-package cat.tabbie.extensions.content;
+package cat.tabbie.minecraft.content;
 
 import static cat.tabbie.sdk.meta.action.Closure.NAMESPACES;
 
