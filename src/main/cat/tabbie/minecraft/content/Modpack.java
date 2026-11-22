@@ -3,10 +3,10 @@ package cat.tabbie.minecraft.content;
 import java.io.IOException;
 import java.util.Set;
 
-import cat.tabbie.minecraft.form.Archive;
 import cat.tabbie.sdk.content.Artifact;
 import cat.tabbie.sdk.failure.Reason;
 import cat.tabbie.sdk.failure.Refusal;
+import cat.tabbie.sdk.form.Archive;
 import cat.tabbie.sdk.meta.action.Install;
 import cat.tabbie.sdk.meta.action.Place;
 import cat.tabbie.sdk.meta.attribute.Applies;

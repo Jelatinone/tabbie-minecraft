@@ -1,7 +1,6 @@
 package cat.tabbie.minecraft.distribution.java;
 
 import cat.tabbie.sdk.distribution.Distribution;
-import cat.tabbie.sdk.distribution.Java;
 import cat.tabbie.sdk.meta.registry.Registered;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

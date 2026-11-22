@@ -4,9 +4,9 @@ import java.io.IOException;
 import java.util.Comparator;
 import java.util.List;
 
-import cat.tabbie.minecraft.form.Json;
 import cat.tabbie.sdk.failure.Reason;
 import cat.tabbie.sdk.failure.Refusal;
+import cat.tabbie.sdk.form.Json;
 import cat.tabbie.sdk.tree.Shape;
 import lombok.AccessLevel;
 import lombok.NonNull;

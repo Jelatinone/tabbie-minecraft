@@ -1,7 +1,7 @@
 /**
- * Tabbie's first-party Java distributions: the {@link Vanilla} game, the mod
- * loaders of {@link Launcher}, and the plugin servers of {@link Manager}. Each
- * group is registered, so an {@code @Applies} declaration can name all of its
- * distributions at once.
+ * Minecraft's Java Edition distributions: the {@link Vanilla} game, the mod
+ * loaders of {@link Launcher}, and the plugin servers of {@link Manager}, each
+ * extending the edition's base, {@link Java}. Each group is registered, so an
+ * {@code @Applies} declaration can name all of its distributions at once.
  */
 package cat.tabbie.minecraft.distribution.java;

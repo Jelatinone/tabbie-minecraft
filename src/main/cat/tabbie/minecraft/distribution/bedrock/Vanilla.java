@@ -1,6 +1,5 @@
 package cat.tabbie.minecraft.distribution.bedrock;
 
-import cat.tabbie.sdk.distribution.Bedrock;
 import cat.tabbie.sdk.distribution.Distribution;
 import cat.tabbie.sdk.meta.registry.Registered;
 import lombok.AccessLevel;
